@@ -97,7 +97,7 @@ title: "RiskNerd Consulting" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mattddickinson.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "risknerd"
+baseurl: "/risknerd"
 repo: "https://github.com/mattddickinson/risknerd/"
 email: "info@risknerd.ca"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -132,8 +132,8 @@ navigation_header:
 
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: ©2024 RiskNerd Consulting
+  #url: https://risknerd.ca
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
