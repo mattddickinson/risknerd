@@ -46,7 +46,7 @@ body {
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
-  text-align: left;
+  text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
@@ -108,7 +108,7 @@ body {
   @include flexbox;
   @include justify-content(space-between);
   color: $captionColour;
-  text-align: center;
+  text-align: left;
 }
 
 .pagination {
