@@ -108,7 +108,7 @@ body {
   @include flexbox;
   @include justify-content(space-between);
   color: $captionColour;
-  text-align: left;
+  text-align: center;
 }
 
 .pagination {
