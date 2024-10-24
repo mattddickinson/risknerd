@@ -131,8 +131,8 @@ navigation_header:
   url: /search/
 
 
-navigation_footer:
-- title: ©2024 RiskNerd Consulting
+#navigation_footer:
+- #title: ©2024 RiskNerd Consulting
   #url: https://risknerd.ca
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
