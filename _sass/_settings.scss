@@ -37,6 +37,13 @@ $monospacetype: (
 
 // Font import, if you're using a non-standard web font
 @font-face {
-  font-family: '"Corbel", serif';
-  src: url('/assets/fonts/CorbelLatin400.woff2');
+  font-family: 'Corbel';
+  font-weight: 400;
+  src: url('/root-dir/assets/fonts/CorbelLatin400.woff2') format("woff2");
+}
+
+@font-face {
+  font-family: 'Corbel';
+  font-weight: 700;
+  src: url('/root-dir/assets/fonts/CorbelLatin700.woff2') format("woff2");
 }
