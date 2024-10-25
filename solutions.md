@@ -6,15 +6,11 @@ excerpt: "Our Robust Service Offerings"
 aside: true
 ---
 
-## Our Services
-
 ### Enterprise Risk Management (ERM)
 
 ### Operational Risk Management (ORM)
 
-### Operational Resilience
-
-#### Business Continuity Planning
-
 ### Third-Party Risk Management
+
+### Organizational Resilience
 
