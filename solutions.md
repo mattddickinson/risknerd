@@ -1,8 +1,9 @@
 ---
-title: Our Services
+title: Solutions
 feature_text: |
 feature_image: "../assets/images/Header.png"
 excerpt: "Our Robust Service Offerings"
+layout: page
 aside: true
 ---
 
