@@ -1,11 +1,11 @@
 {% if site.fonts.font_urls %}
     {% for font in site.fonts.font_urls %}
         <link rel="preload" as="style" href="{{ font }}" />
-        <link href="https://fonts.googleapis.com/css?family=Corbel:400,700"" rel="stylesheet" media="print" onload="this.media='all'" />
+        <link href="https://fonts.googleapis.com/css?family=Corbel:400,700" rel="stylesheet" media="print" onload="this.media='all'" />
     {% endfor %}
     <noscript>
         {% for font in site.fonts.font_urls %}
-            <link href="https://fonts.googleapis.com/css?family=Corbel:400,700"" rel="stylesheet" />
+            <link href="https://fonts.googleapis.com/css?family=Corbel:400,700" rel="stylesheet" />
         {% endfor %}
     </noscript>
 {% endif %}
