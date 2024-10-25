@@ -8,7 +8,7 @@
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       <h3>{{ page.aside_title }}</h3>
-      <p>{{ site.description }}</p>
+      <p>{{ page.aside_text }}</p>
       {% include nav-social.html %}
     </section>
 

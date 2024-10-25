@@ -1,10 +1,11 @@
 ---
 title: Terms of Service
-aside_title: Terms of Service
 feature_text: |
 feature_image: "../assets/images/Header.png"
 excerpt: "Terms Test RiskNerd Consulting specializes in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."
 aside: true
+aside_title: Terms of Service
+aside_text: This is a summary of our Terms of Service. To be filled out more.
 ---
 ## About Us
 
