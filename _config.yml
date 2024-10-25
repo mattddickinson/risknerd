@@ -151,5 +151,6 @@ navigation_footer:
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
+    - https://fonts.googleapis.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Corbel:wght@400;700&display=swap
