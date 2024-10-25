@@ -1,8 +1,8 @@
 ---
-title: Privacy Statement
+title: Terms of Service
 feature_text: |
 feature_image: "../assets/images/Header.png"
-excerpt: "RiskNerd Consulting specializes in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."
+excerpt: "Terms Test RiskNerd Consulting specializes in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."
 aside: true
 ---
 ## About Us
