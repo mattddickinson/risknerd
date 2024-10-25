@@ -15,3 +15,7 @@ Our goal is to illuminate the unknown and remove barriers to growth, giving you 
 ## Customising
 
 Our goal is to illuminate the unknown and remove barriers to growth, giving you the tools to succeed sustainably.
+
+## Contact Us
+
+Email us: [A link](mailto:info@risknerd.ca "info@risknerd.ca")
