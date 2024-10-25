@@ -1,7 +1,7 @@
 ---
 title: Our Services
 feature_text: |
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "../assets/images/Header.png"
 excerpt: "Our Robust Service Offerings"
 aside: true
 ---
