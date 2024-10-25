@@ -1,5 +1,6 @@
 ---
 title: Privacy Statement
+aside_title: Our Privacy Commitment
 feature_text: |
 feature_image: "../assets/images/Header.png"
 excerpt: "Privacy Test RiskNerd Consulting specializes in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."
