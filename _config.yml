@@ -62,7 +62,7 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: | 
-    feature_image: "assets/images/Header.png"
+    feature_image: "/assets/images/Header.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -140,7 +140,7 @@ navigation_footer:
 #sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
 #  Twitter: "#0d94e7"
 #  facebook: "#3B5998"
-# Email: true
+#  Email: true
 
 # Load custom fonts from fonts.google.com etc
 #
