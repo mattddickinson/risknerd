@@ -4,6 +4,7 @@ feature_text: |
 feature_image: "assets/images/Header.png"
 excerpt: "RiskNerd Consulting specializes in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."
 ---
+## About Us
 
 RiskNerd Consulting is all about providing trusted service to help your business thrive.
 
