@@ -126,8 +126,10 @@ navigation_header:
 
 
 navigation_footer:
-- title: 
-  url: /
+- title: Privacy Statement
+  url: /privacy/
+- title: Terms of Service
+  url: /terms/
 
 #social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #  Twitter: https://twitter.com/DavidDarnes
