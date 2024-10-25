@@ -18,4 +18,4 @@ Our goal is to illuminate the unknown and remove barriers to growth, giving you 
 
 ## Contact Us
 
-Email us: [A link](mailto:info@risknerd.ca "info@risknerd.ca")
+Email us: [info@risknerd.ca](mailto:info@risknerd.ca "info@risknerd.ca")
