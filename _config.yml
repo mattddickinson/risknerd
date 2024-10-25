@@ -144,12 +144,13 @@ navigation_footer:
 #  facebook: "#3B5998"
 #  Email: true
 
+
 # Load custom fonts from fonts.google.com etc
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
 #      If multiple fonts can be requested in a single url opt for this
 fonts:
   preconnect_urls:
-- https://fonts.gstatic.com
+    - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Corbel:wght@400;700&display=swap
