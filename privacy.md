@@ -5,7 +5,7 @@ feature_image: "../assets/images/Header.png"
 excerpt: "Privacy Test RiskNerd Consulting specializes in risk management and process improvement, we are here to help your organization dive deep into issues to build resiliency, reduce uncertainty, and improve operations, all in the name of creating value."
 aside: true
 aside_title: Our Privacy Commitment
-aside_text: We value the trust you place in us and are dedicated to maintaining the confidentiality and security of your personal information. If you have any questions or concerns about how we collect, use and store your information, we invite you to reach out to us at [info@risknerd.ca](mailto:info@risknerd.ca)..
+aside_text: We value the trust you place in us and are dedicated to maintaining the confidentiality and security of your personal information. If you have any questions or concerns about how we collect, use and store your information, we invite you to reach out to us at info@risknerd.ca.
 ---
 
 ### Your Privacy. Our Priority.
