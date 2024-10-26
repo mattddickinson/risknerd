@@ -1,18 +1,12 @@
 ---
-title: Contact Us
+title: Get in touch
 feature_text: |
 feature_image: "../assets/images/Header.png"
 excerpt: "Contact Information"
 layout: page
 ---
 
-### Enterprise Risk Management (ERM)
-
-### Operational Risk Management (ORM)
-
-### Third-Party Risk Management
-
-### Organizational Resilience
+Want to get in touch? Let's talk about how we can support your business. Here's how to reach us:
 
 [{% include icon.html id="email" title="email" %}](mailto:info@risknerd.ca)  [info@risknerd.ca](mailto:info@risknerd.ca "Send us an email")
 
