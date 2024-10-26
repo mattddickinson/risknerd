@@ -24,14 +24,14 @@ Through our Contact Us form we will collect your email address, your organizatio
 
 When you subscribe to our email updates, you will provide your name and email address to a third-party email marketing service called Mailchimp. We will use this information to send you our whitepapers when they are released. Your information is securely stored with Mailchimp, will be retained for as long as is necessary in compliance with PIPEDA and Canada’s Anti-Spam Legislation (CASL), and will be deleted once we no longer need it or if you request it.
 
-Confidentiality of Information: We value your privacy and are committed to protecting your personal information. Any information you provide, such as your name and email address, will not be shared outside the organization for any other purposes.
+**Confidentiality of Information:** We value your privacy and are committed to protecting your personal information. Any information you provide, such as your name and email address, will not be shared outside the organization for any other purposes.
 
 ## Communicating With You
 We use Mailchimp to manage our marketing emails and distribution of content, such as white paper insights. When you subscribe to our insights, Mailchimp processes and stores your name and email address. Mailchimp is a trusted email marketing platform that ensures your data is handled securely and complies with CASL.
 
 You can opt out of receiving our email communications at any time. Simply click the unsubscribe link at the bottom of any insights email, and Mailchimp will comply with your request, ensuring that your privacy preferences are respected.
 
-Your Right to Accessing your Personal Information
+## Your Right to Accessing your Personal Information
 
 According to PIPEDA, you have the right to access any of the information we have collected about you, request corrections to it, or have it deleted. If you wish to do so, please contact us as outlined below.
 
